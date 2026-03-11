@@ -6,6 +6,17 @@ EduFord is a modern, responsive university website template built with HTML, CSS
 
 This template is perfect for universities, colleges, schools, and other educational organizations that want to showcase their programs, facilities, and campus life to prospective students and visitors.
 
+## Screenshots
+
+| Page | Screenshot |
+|------|------------|
+| Home | ![Home](screenshots/index.png) |
+| About | ![About](screenshots/about.png) |
+| Courses | ![Courses](screenshots/course.png) |
+| Blog | ![Blog](screenshots/blog.png) |
+| Contact | ![Contact](screenshots/contact.png) |
+
+
 ## Website Structure
 
 The website consists of five main pages, each serving a specific purpose:
