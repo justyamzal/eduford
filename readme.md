@@ -8,14 +8,13 @@ This template is perfect for universities, colleges, schools, and other educatio
 
 ## Screenshots
 
-| Page | Screenshot |
-|------|------------|
-| Home | ![Home](screenshots/index.png) |
-| About | ![About](screenshots/about.png) |
-| Courses | ![Courses](screenshots/course.png) |
-| Blog | ![Blog](screenshots/blog.png) |
-| Contact | ![Contact](screenshots/contact.png) |
+## Screenshots
 
+![Home Page](screenshots/index.png)
+![About Page](screenshots/about.png)
+![Courses Page](screenshots/course.png)
+![Blog Page](screenshots/blog.png)
+![Contact Page](screenshots/contact.png)
 
 ## Website Structure
 
