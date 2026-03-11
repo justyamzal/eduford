@@ -10,7 +10,7 @@ This template is perfect for universities, colleges, schools, and other educatio
 
 | Page | Screenshot |
 |------|------------|
-| Home | ![Home](screenshots/index.png) |
+| Home | ![Home](screenshots/home.png) |
 | About | ![About](screenshots/about.png) |
 | Courses | ![Courses](screenshots/course.png) |
 | Blog | ![Blog](screenshots/blog.png) |
